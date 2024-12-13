@@ -128,6 +128,9 @@ export function WelcomeBanner() {
         <button onClick={() => window.open('https://v2.gamba.so/', '_blank')}>
           🚀 Add Liquidity to Gamba
         </button>
+        <button onClick={() => window.open('https://kick.com/bigdave-trade-fibo61-8/', '_blank')}>
+          🚀 Check Kick Stream
+        </button>
       </Buttons>
     </Welcome>
   )
